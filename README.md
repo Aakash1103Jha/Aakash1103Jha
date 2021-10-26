@@ -2,8 +2,27 @@
 
 A mechanical engineer 🛠 turned developer👨‍💻 . Passionate about design and clean code.
 
-- MERN Stack
-- Swift
+### Design
+- Figma
+- AdobeXD
+
+### Fontend
+- HTML5
+- CSS3 & SASS
+- JS
+  - Vanilla
+  - Reactjs
+  - Nextjs
+
+### Backend
+  - NodeJS
+  - ExpressJS
+
+### Database
+  - MongoDB
+  - Oracle PL/SQL
+
+---
 
 ### Links
 - Check out my [Portfolio][1]
