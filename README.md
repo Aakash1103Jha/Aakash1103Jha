@@ -12,11 +12,11 @@ A mechanical engineer 🛠 turned developer👨‍💻 . Passionate about design
 - JS
   - Vanilla
   - Reactjs
-  - Nextjs
 
 ### Backend
   - NodeJS
   - ExpressJS
+  - GraphQL
 
 ### Database
   - MongoDB
