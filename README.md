@@ -1,3 +1,5 @@
+![banner 2](https://user-images.githubusercontent.com/52240895/160257713-22692465-900f-414f-937b-05acc6d83880.png)
+
 # Hey! I am Aakash
 
 A mechanical engineer 🛠 turned developer👨‍💻 . Passionate about design and clean code.
