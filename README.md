@@ -11,7 +11,7 @@ A mechanical engineer 🛠 turned developer👨‍💻 . Passionate about design
 ### Fontend
 - HTML5
 - CSS3 & SASS
-- JS
+- JavaScript & TypeScript
   - Vanilla
   - Reactjs
 
@@ -21,8 +21,8 @@ A mechanical engineer 🛠 turned developer👨‍💻 . Passionate about design
   - GraphQL
 
 ### Database
-  - MongoDB
-  - Oracle PL/SQL
+  - NoSQL: MongoDB
+  - SQL: Oracle | Postgres
 
 ---
 
