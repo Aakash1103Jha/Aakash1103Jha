@@ -24,6 +24,7 @@ A mechanical engineer 🛠 turned developer👨‍💻 . Passionate about design
   - NoSQL: MongoDB
   - SQL: Oracle | Postgres
 
+![Untitled](https://user-images.githubusercontent.com/52240895/165219902-c461814a-4894-472b-bb63-f483fad4ac0d.png)
 ---
 
 ### Links
