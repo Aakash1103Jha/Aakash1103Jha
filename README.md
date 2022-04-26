@@ -1,4 +1,4 @@
-![banner 2](https://user-images.githubusercontent.com/52240895/160257713-22692465-900f-414f-937b-05acc6d83880.png)
+![new_banner](https://user-images.githubusercontent.com/52240895/165217677-00aa16eb-c21d-4008-ba3c-5afc0403d22d.png)
 
 # Hey! I am Aakash
 
