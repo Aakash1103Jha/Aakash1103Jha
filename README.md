@@ -21,7 +21,7 @@ A detail oriented software developer with more than 3 years of experience in the
 
 ## My GitHub Stats
 
-<a href="http://www.github.com/Aakash1103Jha"><img src="https://github-readme-stats.vercel.app/api?username=Aakash1103Jha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" width="45%" alt="Aakash1103Jha's GitHub stats" /></a> <a href="http://www.github.com/Aakash1103Jha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash1103Jha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="45%"/></a>
+<a href="http://www.github.com/Aakash1103Jha"><img src="https://github-readme-stats.vercel.app/api?username=Aakash1103Jha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" width="48%" alt="Aakash1103Jha's GitHub stats" /></a> <a href="http://www.github.com/Aakash1103Jha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakash1103Jha&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="48%"/></a>
 
 ### Support Me
 
