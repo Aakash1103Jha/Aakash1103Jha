@@ -4,7 +4,7 @@
 
 ### A Mechanical Engineer turned Software Developer
 
-A detail oriented software developer with more than 3 years of experience in the IT field. Proficient in MERN technology and design principles for product / software development. Doing my best to bring change to the world; one line of code at a time. Keeping my code clean, and designs elegant.
+A detail oriented software developer with about 4 years of experience in the IT field. Proficient in MERN technology and design principles for product / software development. Doing my best to bring change to the world; one line of code at a time. Keeping my code clean, and designs elegant.
 
 * 🌍  I'm based in New Delhi, India 
 * 🖥️  See my portfolio at [thedevdesigner.com](http://www.thedevdesigner.com) 
