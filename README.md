@@ -4,7 +4,9 @@
 
 ### A Mechanical Engineer turned Software Developer
 
-An accomplished and detail-oriented engineer with 4 years of experience in modern application design and development. Proficient in MERN technology and UI/UX design principles for products and software. Self-motivated team player, aiming to find creative and feasible solutions to seemingly difficult problems, to leave a long-lasting impact with exceptional work ethics.
+An accomplished and detail-oriented engineer with 5 years of experience in modern application design and development. Proficient in MERN technology and UI/UX design principles for products and software. Self-motivated team player, aiming to find creative and feasible solutions to seemingly difficult problems, to leave a long-lasting impact with exceptional work ethics.
+
+Currently working for one of the leading OTT platform provider in the international market, as a Senior Software Engineer, with a mentality of Team Lead. 
 
 * 🌍  I'm based in New Delhi, India 
 * 🖥️  See my portfolio at [thedevdesigner.com](http://www.thedevdesigner.com) 
