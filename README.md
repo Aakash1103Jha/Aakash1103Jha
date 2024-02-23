@@ -4,9 +4,9 @@
 
 ### A Mechanical Engineer turned Software Developer
 
-An accomplished and detail-oriented engineer with 5 years of experience in modern application design and development. Proficient in MERN technology and UI/UX design principles for products and software. Self-motivated team player, aiming to find creative and feasible solutions to seemingly difficult problems, to leave a long-lasting impact with exceptional work ethics.
+A seasoned Senior Software Engineer with over 5 years of experience and a proven track record of strong commitment to delivering robust and user-centric solutions, ensuring seamless user experiences across diverse platforms. Adept at identifying bottlenecks, troubleshooting issues, and providing effective solutions.
 
-Currently working for one of the leading OTT platform provider in the international market, as a Senior Software Engineer, with a mentality of Team Lead. 
+Demonstrating leadership by leading cross-functional teams and contributing to the success of diverse projects, and organisational abilities to lead multiple concurrent test paths in domains spanning, but not limited to e-Commerce, e-Education, Fintech and CRM.
 
 * 🌍  I'm based in New Delhi, India 
 * 🖥️  See my portfolio at [aakashjha.dev](https://www.aakashjha.dev) 
