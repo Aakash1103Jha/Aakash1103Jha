@@ -4,7 +4,7 @@
 
 ### A Mechanical Engineer turned Software Developer
 
-A seasoned Senior Software Engineer with over 5 years of experience and a proven track record of strong commitment to delivering robust and user-centric solutions, ensuring seamless user experiences across diverse platforms. Adept at identifying bottlenecks, troubleshooting issues, and providing effective solutions.
+A results-driven Technical Lead with more than half a decade of experience and a proven track record of strong commitment to delivering robust and user-centric solutions, ensuring seamless user experiences across diverse platforms. Adept at identifying bottlenecks, troubleshooting issues, and providing effective solutions.
 
 Demonstrating leadership by leading cross-functional teams and contributing to the success of diverse projects, and organisational abilities to lead multiple concurrent test paths in domains spanning, but not limited to e-Commerce, e-Education, Fintech and CRM.
 
